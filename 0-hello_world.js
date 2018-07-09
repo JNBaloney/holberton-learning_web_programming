@@ -1,1 +1,1 @@
-Betty Holberton
+console.log("Betty Holberton")
