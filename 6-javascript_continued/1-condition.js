@@ -2,6 +2,6 @@
 let x = 7
 if (x > 5) {
   console.log('The value is greater than 5');
-} if (x<5){
-  console.log();
+} else{
+  console.log('The value is equal to 5 or lower')
 }
