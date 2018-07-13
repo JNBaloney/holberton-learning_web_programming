@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 
 let x = 7
 if (x > 5) {
