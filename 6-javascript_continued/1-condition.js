@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 let y = 7
 if (y > 5) {
   console.log('The value is greater than 5');
